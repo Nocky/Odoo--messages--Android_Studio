@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="fit_to_window_height">true</bool>
+    <dimen name="widget_margin">0dp</dimen>
+    <item name="window_title_bar_height" type="dimen">0dp</item>
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.DarkActionBar"/>
+    <style name="AppTheme" parent="AppBaseTheme"> <!-- Application theme. -->
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:actionBarStyle">@style/CustomActionbar</item>
+        <item name="actionBarStyle">@style/CustomActionbar</item>
+    </style>
+    <style name="Base.Theme.AppCompat" parent="Base.V14.Theme.AppCompat">
+        <item name="android:actionModeCutDrawable">?actionModeCutDrawable</item>
+        <item name="android:actionModeCopyDrawable">?actionModeCopyDrawable</item>
+        <item name="android:actionModePasteDrawable">?actionModePasteDrawable</item>
+        <item name="android:actionModeSelectAllDrawable">?actionModeSelectAllDrawable</item>
+        <item name="android:actionModeShareDrawable">?actionModeShareDrawable</item>
+    </style>
+    <style name="Base.Theme.AppCompat.Dialog" parent="Base.V14.Theme.AppCompat.Dialog">
+        <item name="android:actionModeCutDrawable">?actionModeCutDrawable</item>
+        <item name="android:actionModeCopyDrawable">?actionModeCopyDrawable</item>
+        <item name="android:actionModePasteDrawable">?actionModePasteDrawable</item>
+        <item name="android:actionModeSelectAllDrawable">?actionModeSelectAllDrawable</item>
+        <item name="android:actionModeShareDrawable">?actionModeShareDrawable</item>
+    </style>
+    <style name="Base.Theme.AppCompat.Light" parent="Base.V14.Theme.AppCompat.Light">
+        <item name="android:actionModeCutDrawable">?actionModeCutDrawable</item>
+        <item name="android:actionModeCopyDrawable">?actionModeCopyDrawable</item>
+        <item name="android:actionModePasteDrawable">?actionModePasteDrawable</item>
+        <item name="android:actionModeSelectAllDrawable">?actionModeSelectAllDrawable</item>
+        <item name="android:actionModeShareDrawable">?actionModeShareDrawable</item>
+    </style>
+    <style name="Base.Theme.AppCompat.Light.Dialog" parent="Base.V14.Theme.AppCompat.Light.Dialog">
+        <item name="android:actionModeCutDrawable">?actionModeCutDrawable</item>
+        <item name="android:actionModeCopyDrawable">?actionModeCopyDrawable</item>
+        <item name="android:actionModePasteDrawable">?actionModePasteDrawable</item>
+        <item name="android:actionModeSelectAllDrawable">?actionModeSelectAllDrawable</item>
+        <item name="android:actionModeShareDrawable">?actionModeShareDrawable</item>
+    </style>
+    <style name="Base.V14.Theme.AppCompat" parent="Base.V11.Theme.AppCompat"/>
+    <style name="Base.V14.Theme.AppCompat.Dialog" parent="Base.V11.Theme.AppCompat.Dialog"/>
+    <style name="Base.V14.Theme.AppCompat.Light" parent="Base.V11.Theme.AppCompat.Light"/>
+    <style name="Base.V14.Theme.AppCompat.Light.Dialog" parent="Base.V11.Theme.AppCompat.Light.Dialog"/>
+    <style name="CustomActionbar" parent="@style/Widget.AppCompat.Light.ActionBar.Solid">
+        <item name="android:background">@color/actionbar_bg_color</item>
+        <item name="background">@color/actionbar_bg_color</item>
+    </style>
+    <style name="ProfileActivityTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="windowActionBarOverlay">true</item>
+    </style>
+    <style name="SettingActivity" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>

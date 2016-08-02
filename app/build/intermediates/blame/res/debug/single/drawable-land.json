@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/kristian/android_rappi/messaging-master1/app/build/intermediates/res/merged/debug/drawable-land/oe_listview_background_selector.xml",
+        "source": "/home/kristian/android_rappi/messaging-master1/app/src/main/res/drawable-land/oe_listview_background_selector.xml"
+    },
+    {
+        "merged": "/home/kristian/android_rappi/messaging-master1/app/build/intermediates/res/merged/debug/drawable-land/listitem_pressed.xml",
+        "source": "/home/kristian/android_rappi/messaging-master1/app/src/main/res/drawable-land/listitem_pressed.xml"
+    }
+]

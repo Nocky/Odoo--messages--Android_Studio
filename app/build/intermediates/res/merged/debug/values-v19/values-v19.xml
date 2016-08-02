@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="fit_to_window_height">true</bool>
+    <dimen name="undo_bar_height">48dp</dimen>
+    <item name="window_title_bar_height" type="dimen">25dip</item>
+    <drawable name="button_background">@android:color/transparent</drawable>
+    <drawable name="button_wrapper_background">@drawable/background_right</drawable>
+    <drawable name="message_background">@drawable/background_left</drawable>
+    <drawable name="root_background">@android:color/transparent</drawable>
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.DarkActionBar"/>
+    <style name="AppTheme" parent="AppBaseTheme"> <!-- Application theme. -->
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:actionBarStyle">@style/CustomActionbar</item>
+        <item name="actionBarStyle">@style/CustomActionbar</item>
+        <item name="android:windowTranslucentNavigation">@bool/fit_to_window_height</item>
+        <item name="android:windowTranslucentStatus">@bool/fit_to_window_height</item>
+    </style>
+    <style name="CustomActionbar" parent="@style/Widget.AppCompat.Light.ActionBar.Solid">
+        <item name="android:background">@color/actionbar_bg_color</item>
+        <item name="background">@color/actionbar_bg_color</item>
+    </style>
+    <style name="ProfileActivityTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="windowActionBarOverlay">true</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:windowTranslucentStatus">@bool/fit_to_window_height</item>
+    </style>
+</resources>

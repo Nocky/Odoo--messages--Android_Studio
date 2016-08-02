@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/kristian/android_rappi/messaging-master1/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/attachment.png",
+        "source": "/home/kristian/android_rappi/messaging-master1/app/src/main/res/drawable-nodpi/attachment.png"
+    },
+    {
+        "merged": "/home/kristian/android_rappi/messaging-master1/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/file_attachment.png",
+        "source": "/home/kristian/android_rappi/messaging-master1/app/src/main/res/drawable-nodpi/file_attachment.png"
+    },
+    {
+        "merged": "/home/kristian/android_rappi/messaging-master1/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/odoo.png",
+        "source": "/home/kristian/android_rappi/messaging-master1/app/src/main/res/drawable-nodpi/odoo.png"
+    },
+    {
+        "merged": "/home/kristian/android_rappi/messaging-master1/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/widget_preview.png",
+        "source": "/home/kristian/android_rappi/messaging-master1/app/src/main/res/drawable-nodpi/widget_preview.png"
+    },
+    {
+        "merged": "/home/kristian/android_rappi/messaging-master1/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/avatar.png",
+        "source": "/home/kristian/android_rappi/messaging-master1/app/src/main/res/drawable-nodpi/avatar.png"
+    },
+    {
+        "merged": "/home/kristian/android_rappi/messaging-master1/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/default_cover.png",
+        "source": "/home/kristian/android_rappi/messaging-master1/app/src/main/res/drawable-nodpi/default_cover.png"
+    },
+    {
+        "merged": "/home/kristian/android_rappi/messaging-master1/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/actionbar_bottom_border.9.png",
+        "source": "/home/kristian/android_rappi/messaging-master1/app/src/main/res/drawable-nodpi/actionbar_bottom_border.9.png"
+    },
+    {
+        "merged": "/home/kristian/android_rappi/messaging-master1/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/odoo_small.png",
+        "source": "/home/kristian/android_rappi/messaging-master1/app/src/main/res/drawable-nodpi/odoo_small.png"
+    }
+]

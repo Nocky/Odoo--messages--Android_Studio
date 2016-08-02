@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/kristian/android_rappi/messaging-master1/app/build/intermediates/res/merged/debug/menu/main_menu_drawer_open.xml",
+        "source": "/home/kristian/android_rappi/messaging-master1/app/src/main/res/menu/main_menu_drawer_open.xml"
+    },
+    {
+        "merged": "/home/kristian/android_rappi/messaging-master1/app/build/intermediates/res/merged/debug/menu/menu_user_profile.xml",
+        "source": "/home/kristian/android_rappi/messaging-master1/app/src/main/res/menu/menu_user_profile.xml"
+    },
+    {
+        "merged": "/home/kristian/android_rappi/messaging-master1/app/build/intermediates/res/merged/debug/menu/menu_mail_compose.xml",
+        "source": "/home/kristian/android_rappi/messaging-master1/app/src/main/res/menu/menu_mail_compose.xml"
+    },
+    {
+        "merged": "/home/kristian/android_rappi/messaging-master1/app/build/intermediates/res/merged/debug/menu/menu_fragment_sync_wizard.xml",
+        "source": "/home/kristian/android_rappi/messaging-master1/app/src/main/res/menu/menu_fragment_sync_wizard.xml"
+    },
+    {
+        "merged": "/home/kristian/android_rappi/messaging-master1/app/build/intermediates/res/merged/debug/menu/menu_fragment_all_accounts.xml",
+        "source": "/home/kristian/android_rappi/messaging-master1/app/src/main/res/menu/menu_fragment_all_accounts.xml"
+    },
+    {
+        "merged": "/home/kristian/android_rappi/messaging-master1/app/build/intermediates/res/merged/debug/menu/menu_mail.xml",
+        "source": "/home/kristian/android_rappi/messaging-master1/app/src/main/res/menu/menu_mail.xml"
+    },
+    {
+        "merged": "/home/kristian/android_rappi/messaging-master1/app/build/intermediates/res/merged/debug/menu/menu_mail_detail.xml",
+        "source": "/home/kristian/android_rappi/messaging-master1/app/src/main/res/menu/menu_mail_detail.xml"
+    }
+]
